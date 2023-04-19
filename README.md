@@ -180,8 +180,6 @@ Create a new review for a movie with the given IMDB ID.
 ```
 Returns a 201 CREATED status code on success.
 
-# Getting Started
-
 ### Reference Documentation
 For further reference, please consider the following sections:
 
